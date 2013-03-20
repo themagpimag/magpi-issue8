@@ -1,0 +1,9 @@
+Hi Will, et al,
+
+Please find attached a possible version of a GPIO motor control program. It's not tested at all as I am away from my Rpi for now and will remain so for some time due to a bereavement.
+Here I've assigned GPIO 1,2,3,4 to controlling the H bridge but it's starting to get confusing as to which GPIO is which depending on which version of RPi you have. Please feel free to reassign any of the GPIO's mentioned to ones which are fixed regardless of rpi version if you think it's necessary.
+
+Also, please add a line to the article to the effect that this program would  need another set of 4 GPIO to control a second H bridge if the robot is using two motors.
+
+Thanks and kind regards,
+Morphy

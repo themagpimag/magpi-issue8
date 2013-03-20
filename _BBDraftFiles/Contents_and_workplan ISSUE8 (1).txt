@@ -1,0 +1,55 @@
+Contents and workplan.
+Update History:
+01/11/12 - Meltwater - moved ada to end and updated python pit info
+18/10/12 - Ash
+
+01 	Cover 			- Needs creating
+	
+
+
+02 	Editorial 		- Needs editing
+03 	Contents 		- Needs editing
+
+04	Skutter			- Morphy	
+05	Skutter			- Morphy	
+06	Skutter			- Morphy	
+07	Skutter			- Morphy	
+
+08	SSH Project		- Matt
+09	SSH Project		- Matt
+
+10	Ladder part 2		- Gordon
+11	Ladder part 2 		- Gordon
+
+12	? Home automation - controlling lights - Geoff
+13	? Home automation - controlling lights - Geoff
+14	? Home automation - controlling lights - Geoff
+
+15	Competition 		- Needs agreeing with PC Supplies, Lasts months winners need choosing
+
+16	Colin's interview? 	- ? Is this TZJ's PiBow Interview?
+17	Colin's interview? 	- ? Is this TZJ's PiBow Interview?
+
+18	?Nanpy			- Andrea
+19	?Nanpy			- Andrea
+
+20	NTS			- NTS Ad - Need Scribus File
+21	NTS			- NTS Ad - Need Scribus File
+
+22	NTS			- NTS Ad - Need Scribus File
+23	Python Book Press release - Needs laying out when recieved
+
+
+24	ADA article
+25	ADA article
+
+26 	SQL Article		- Recieved and in dropbox issue 8 folder, needs layout	
+27	SQL Article
+28	SQL Article
+
+29	Events page		- Needs editing
+
+30	Python pit 		- Colin	desktop widgets 
+31	Python pit 		- Colin	desktop widgets
+
+32 	Back page 		- Needs editing

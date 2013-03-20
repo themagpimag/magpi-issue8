@@ -1,0 +1,13 @@
+HI,
+
+I've found the suitable parts on Maplin's site, but can't find
+anything on Tandy.
+Maplin parts...
+VY48C – 433mhz transmitter and receiver £9.99. Bigger and more pins
+than the ones I used, but the extra ones are duplicates of power
+supplies.
+DG41U – Floppy disk cable £3.99.
+M1M – 1MOhm Resistor £0.29.
+
+Regards,
+Geoff.

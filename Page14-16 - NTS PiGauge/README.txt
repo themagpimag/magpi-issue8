@@ -1,0 +1,1 @@
+This is an article sponsered by NTS systems.

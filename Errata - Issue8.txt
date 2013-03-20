@@ -1,0 +1,37 @@
+Pigauge
+p16 (Reading Servo Positions, continued from p15)
+
+To properly add them together
+you'll need to shift all the bits in the second
+register to the left by 8-bits (>>8).
+
+This is extremely dubious. As I see it, it is little-endian, “least significant byte first”.
+
+I think it should be <<8, as in the code sample above. The code looks right.
+
+---
+
+P22 - the C++ cache
+
+[program_name] and [program-name] inconsistency
+
+---
+
+
+
+“If you get an error saying the file is not found” - The actual error would be something like:
+
+gcc: error: test.cpp: No such file or directory
+
+Should probably read “If you get an error saying no such file or directory...”
+
+
+---
+
+“DATABASE BOOTCAMP” (p25)
+
+I disagree with some of what this article says, because it implies that SQL database tables are a list, which of course, they aren’t. They are a set of tuples, which is not the same as a list because it’s not inherently ordered and you can’t rely on the database presenting the rows in a fixed order unless you use ORDER BY.
+
+“MySQL recognizes only three types of data: text, number and date”. Colon missing.
+
+It’s also not really true, because there are other types which are fundamentally different, such as blobs or geospatial data.

@@ -1,0 +1,25 @@
+Choosing the right transistor
+Using the right transistor can make a massive difference to the design of your circuit.  Often several factors need to be considered simultaneously.  First, we need an idea of the minimum gain we need to provide.  We will use the saturation equation given before, however it is common to allow for 5 times the hFE value (if you look closely at transistor data sheets you will see that the gain can vary due to how it is used and even its temperature).  Here, IC is the current we need for our motor at 2.5A and IB is the current we can supply to switch the transistor (RPi GPIO pin can supply up to 15mA, 51mA maximum in total).
+hFE(min) > 5 x (IC/IB) = 5 x (2.5/0.015) = 833 (most common transistors have gains around 100…)
+The next consideration is the transistor will need to handle 2.5A through the collector and emitter, so ICE(max) needs to be high enough (and a VCE(max) high enough for your motor supply.  Finally, the voltage drop VCE(sat) is also important, since not only does this determine how much of the supply voltage makes it through to the motor, but the amount of power wasted (as heat) by the transistor (this is given by Power = IC x VCE(sat)).
+The alarming gain value can be solved by using more than one transistor in series, so the GPIO signal is “amplified” in stages.  One way to do this is to use a special arrangement called a Darlington Pair, these are often available wrapped up in a single package.  In fact, TIP120, TIP121 and TIP122 are designed for such applications, offering hFE values around 1000, IC(max) of 5 Amps and in a suitable form to attach a large heatsink if required.
+However, another option is to make use of extra transistors to perform the switching of the H-Bridge and also provide isolation from the motor supply voltages (anything above 3.3V on the GPIO is bad news).  The gain from these transistors can be used to reduce the required gain of the H-Bridge transistors; with some careful selection it may be possible to drive the motor without the Darlington Pairs (see http://wiki.raspberrytorte.com/index.php?title=Big_Trak_Circuits).  This leads to the final consideration, whatever transistors you design for you’ll need to source them or equivalent ones, hence why I’ve settled on the TIP devices.  The trade-off is that the VBE(sat) can range from 0.7V – 4V, so between 1.4V and 8V can be dropped from the supply voltage, depending on the ratio of IB and IC.
+
+Resistor Values
+We shall aim to limit the current drawn from the GPIO pin to 5mA (allows other pins to draw similar amounts safely).  To work out R1 and R2, we use Ohms law: Resistance = Voltage/Current.
+When active high the GPIO provides 3.3Volts, the transistor has a VBE voltage prob of 0.7Volts.
+(3.3-0.7-1.4) / 0.005 = 520ohm
+We can expect at least hFE of 35, so there will be around 175mA available to the TIP devices.
+
+For R3, we take the motor supply and apply voltage drops for Q1 (V(CB) = 1.4V) and Q2 (V(BE) = 1.4V)
+(V(motor)-1.4-1.4)/I(B) = R3
+For R1, there is a voltage drop from Q5 (V(BE) =  0.7V) and Q2 (V(BE) = 1.4V) on the GPIO voltage:
+(V(GPIO)-0.7-1.4)/I(B) = R1
+Here we want to keep I(B) fairly low <5mA, while still supplying I(C) as required by Q1 and Q2 stage.
+
+When you start to calculate the numbers, you will notice we have a lot of headroom, so we may as well aim for the ideal of only using a 5th of the gain, which means the transistor is not only saturated, but not being pushed too hard (even if the motor voltage is raised or lowered, or more current driven up to 5A).
+Q1, Q2 assume gain of 200 (1/5 of HFE min), 2.5/200=12.5mA
+(V(motor)-1.4-1.4)/I(B) = R3 = 9 – 2.8 / 0.0125 = 496 ohm (470ohm gives 13mA, lower gain 190)
+Q5 assume gain of 6 (1/5 of HFE min), 0.0125/6 = 2mA
+(V(GPIO)-0.7-1.4)/I(B) = R1 = 3.3 – 2.1 / 0.002 = 600 ohm (680ohm gives 1.76mA, higher gain 7.5)
+ Even “lazy” 1K fits-all values give Q5 I(B)=1.2mA Gain=5, Q1,Q2 I(B)=6.2mA Gain=403

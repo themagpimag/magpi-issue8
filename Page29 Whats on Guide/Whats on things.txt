@@ -1,0 +1,98 @@
+Will
+
+Are you aware that we are having a Raspberry Jamboree on March 9th? 
+
+http://raspberryjamboree.eventbrite.com/
+
+The principal aim of the Raspberry Pi was to encourage more children into computing and programming. Some critics say that the only people using the Raspberry Pi at the moment are the typical Linux geeks that have always been interested in this kind of thing. Many teachers tell me they don't see how the Raspberry Pi changes anything. 
+
+To this end, I am organising our first Raspberry Jamboree in Manchester on March 9th to coincide with the Education Innovation festival in Manchester. We will have up to 340 delegates attending from around the UK. In one week alone we have sold around a third of our allocation of tickets and we have people coming from the furthest reaches of the UK to Manchester to the event.  One year on from the release of the Raspberry Pi, we aim to identify and share the impact that this low-cost computer is having on education. The event will focus purely on the potential this device offers for education, not its limitations. I particularly want to encourage those with an interest in education to attend to discover exactly how they can use this device to inspire children to engage with computing. 
+
+I wonder if there is a mutually beneficial way that we could work with MagPi to promote the magazine and for the magazine to help promote the Jamboree. Perhaps if there was a way to abstract and print a few articles from previous issues that would be particularly pertinent to teachers along with details of how to subscribe. If this was successful, some of the other networks I work within, Computing At School for instance could offer to circulate among their membership of 1500. 
+
+I would be interested to hear your thoughts. I thought an abstract might be easier and less costly than giving out 340 free copies of the magazine. Hopefully, it would be just enough to whet the appetite of those present to consider subscribing. 
+
+Alan
+Mr Alan O'Donohoe @teknoteacher
+Principal Teacher of ICT, Our Lady's High School, Preston. 
+Teach Computing http://teachcomputing.wordpress.com/  
+Raspberry Jambassador http://raspberryjam.org.uk/
+
+
+-------------------------------------------
+
+Speak to Will re. CERN event??????
+
+---------------------------------------------
+
+Hi All
+
+In Bristol (UK) there is a Raspberry Pi event on 6th December in the
+evening. This looks like something we should go along to (I'm going).
+
+Note that these events are open to both BCS and non-BCS members and are
+free to attend.
+
+Details below. There are only 66 places spare at time of writing so do
+register asap if you plan to go.
+
+-Colin
+
+Dear Members,
+
+Our Xmas event for all is at @Bristol on the 6th of December and the whole
+family is welcome.
+
+
+
+Details and booking are here. http://bcsbristolraspberry.eventbrite.co.uk
+
+Booking is essential for this event!
+
+
+
+Doors open at 18:00 with a chance to look around @Bristol with the talk
+starting at 19:00 with the event finishing at 20:00
+
+
+
+This event is aimed at children of all ages, though adults are welcome as
+well.
+
+Come along to hear Rob Bishop, 22, from the Raspberry Pi Foundation talk
+about the joy of making using the Raspberry Pi. Rob will discuss how he
+got involved in the project as an intern at Broadcom and why a career in
+engineering or computer science is awesome. There will also be a chance to
+get hands-on with a Raspberry Pi and to ask him any technical or
+non-technical questions you might have about engineering, computer science
+and the Raspberry Pi.
+
+
+
+About Rob Bishop: Developer, Product Engineer & Evangelist for Raspberry
+Pi Foundation
+
+
+
+One of the earliest engineers involved with the development of the
+Raspberry Pi and currently the only full-time paid employee in the
+Foundation.
+
+
+
+The event starts at 1800 with the chance to have a look around @Bristol
+followed by the talk starting at 19:00.
+
+
+
+Both BCS Members and Non Members are welcome.
+
+
+
+Best regards
+
+
+
+Simon Thorp, Social Media, BCS Bristol Branch
+
+(feel free to email me with comments: simon.thorp@bcs.org)
