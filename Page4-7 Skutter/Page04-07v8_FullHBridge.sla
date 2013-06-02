@@ -55,7 +55,7 @@
         <LAYERS NUMMER="2" LEVEL="1" NAME="Images" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
         <LAYERS NUMMER="3" LEVEL="2" NAME="Text" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
         <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="File" filename="/home/pi/Documents/theMagPi/issue 6/arduino/Page00-00.ps" separationName="All" printerCommand=""/>
-        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="1" Quality="2" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="1" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="600" Resolution="600" Version="14" Intent="1" Intent2="1" SolidP="" ImageP="" PrintP="" InfoString="" BTop="28.3464566929134" BLeft="53.8582677165354" BRight="28.3464566929134" BBottom="28.3464566929134" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="1" Grayscale="0" RGBMode="0" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="600" Resolution="600" Version="14" Intent="1" Intent2="1" SolidP="" ImageP="" PrintP="" InfoString="" BTop="8.50393700787402" BLeft="8.50393700787402" BRight="8.50393700787402" BBottom="8.50393700787402" useDocBleeds="0" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" docInfoMarks="1" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="0" doMultiFile="1" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
             <Fonts Name="Bitstream Charter Bold"/>
             <Fonts Name="Courier 10 Pitch Bold"/>
             <Fonts Name="Courier 10 Pitch Regular"/>
@@ -102,13 +102,13 @@
         <PAGE PAGEXPOS="100.001" PAGEYPOS="20.0013" PAGEWIDTH="595.276" PAGEHEIGHT="841.89" BORDERLEFT="53.8583" BORDERRIGHT="28.3465" BORDERTOP="28.3465" BORDERBOTTOM="28.3465" NUM="0" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="299.999 273.499 " HorizontalGuides="802.205 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="695.277" PAGEYPOS="20.0013" PAGEWIDTH="595.276" PAGEHEIGHT="841.89" BORDERLEFT="53.8583" BORDERRIGHT="28.3465" BORDERTOP="28.3465" BORDERBOTTOM="28.3465" NUM="1" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="325.556 299.223 " HorizontalGuides="802.249 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="901.891" PAGEWIDTH="595.276" PAGEHEIGHT="841.89" BORDERLEFT="53.8583" BORDERRIGHT="28.3465" BORDERTOP="28.3465" BORDERBOTTOM="28.3465" NUM="2" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="299.999 270.7 " HorizontalGuides="802.205 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
-        <PAGE PAGEXPOS="695.277" PAGEYPOS="901.891" PAGEWIDTH="595.276" PAGEHEIGHT="841.89" BORDERLEFT="53.8583" BORDERRIGHT="28.3465" BORDERTOP="28.3465" BORDERBOTTOM="28.3465" NUM="3" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="323.973 296.223 " HorizontalGuides="802.205 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="695.277" PAGEYPOS="901.891" PAGEWIDTH="595.276" PAGEHEIGHT="841.89" BORDERLEFT="53.8583" BORDERRIGHT="28.3465" BORDERTOP="28.3465" BORDERBOTTOM="28.3465" NUM="3" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="296.223 325.066 " HorizontalGuides="802.205 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="765.812438964844" YPOS="1349.76501464844" WIDTH="480" HEIGHT="303.30712890625" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.4" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.75" LOCALSCY="0.75" LOCALX="3.03164900590976e-13" LOCALY="-43.0095080277984" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="fanfold-paper.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 480 0 480 0 480 0 480 0 480 303.307 480 303.307 480 303.307 480 303.307 0 303.307 0 303.307 0 303.307 0 303.307 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 480 0 480 0 480 0 480 0 480 303.307 480 303.307 480 303.307 480 303.307 0 303.307 0 303.307 0 303.307 0 303.307 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="3" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.348" YPOS="246.772953543307" WIDTH="513.071" HEIGHT="575.433070866142" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="2" COLGAP="28.3465" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="14" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Nimbus Sans L Bold Condensed" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="LeftPageBodyText" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 513.071 0 513.071 0 513.071 0 513.071 0 513.071 575.433 513.071 575.433 513.071 575.433 513.071 575.433 0 575.433 0 575.433 0 575.433 0 575.433 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 513.071 0 513.071 0 513.071 0 513.071 0 513.071 575.433 513.071 575.433 513.071 575.433 513.071 575.433 0 575.433 0 575.433 0 575.433 0 575.433 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="1125.47" gYpos="19.2012" gWidth="1125.97" gHeight="20.2012" ALIGN="0" LAYER="3" BOOKMARK="0" NEXTITEM="4" BACKITEM="-1">
-            <ITEXT CH="A simple switching “H bridge”"/>
+            <ITEXT CH="A simple, switching “H bridge”"/>
             <para PARENT="Body Headings"/>
             <para PARENT="Body Text"/>
             <ITEXT CH="In the last article we looked at some physical means of adding motors to a robot and investigated adapting some motorised electronic toys as a potential source for robot bases."/>
@@ -120,13 +120,10 @@
             <ITEXT CH="We will start by re-examining the standard DC motor that was covered in the previous article."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="To make the motor run forwards we apply a power source between the + and – terminals on the motor and to make it run in reverse, simply swap the power source terminals around."/>
+            <ITEXT CH="To make the motor run forwards we apply a power source between the + and – terminals on the motor and to make it run in reverse we simply swap the power source terminals around."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="The motor driver module we are going to create will need to be a circuit which is able to do this swapping around of the power supply terminals electronically. This can be accomplished using a “H bridge circuit”."/>
-            <para PARENT="Body Text"/>
-            <para PARENT="Body Text"/>
-            <para PARENT="Body Text"/>
+            <ITEXT CH="The motor driver module we are going to create will need to be a circuit which is able to do this swapping around of the power supply terminals electronically. This can be accomplished using an “H bridge&quot; circuit."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
@@ -145,7 +142,10 @@
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="This diagram shows a simplified version of such a circuit. Closing switches 1 and 2 effectively connects the positive rail of the power supply to the + terminal on the motor and ground to the – terminal and the motor runs forwards. Alternatively, closing switches 3 and 4 connects the ground to the + terminal and the positive rail to the – terminal and the motor runs in reverse."/>
+            <para PARENT="Body Text"/>
+            <para PARENT="Body Text"/>
+            <para PARENT="Body Text"/>
+            <ITEXT CH="This diagram shows a simplified version of such a circuit. Closing switches 1 and 2 effectively connects the positive rail of the power supply to the + terminal on the motor and ground to the – terminal; causing the motor to run forwards. Alternatively, closing switches 3 and 4 connects the ground to the + terminal and the positive rail to the – terminal; causing the motor to run in reverse."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <ITEXT CH="There is a potentially dangerous situation if switches 1 and 4 or 3 and 2 are closed. This would create a short circuit between Power Supply + and Ground which can be very problematic to say the least. Care must be taken when controlling this circuit to ensure that this situation can never happen."/>
@@ -154,7 +154,7 @@
             <ITEXT CH="In reality we can’t have four physical on / off switches like this as we need to control the circuit using the GPIO on the Raspberry Pi."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="There are electronic solutions to this. One possibility is the use of electromagnetic relays to close these “switches”, however the Raspberry Pi is not able to deliver enough power from the GPIO to directly activate such a relay without having something in-between such as a transistor. This leads us to the second possible solution which is to simply use some transistors as switches."/>
+            <ITEXT CH="There are electronic solutions to this. One possibility is the use of electromagnetic relays to close these switches. However, the Raspberry Pi is not able to deliver enough power from the GPIO to directly activate such a relay without having something in-between such as a transistor. This leads us to the second possible solution which is to simply use some transistors as switches."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
@@ -173,21 +173,21 @@
             <ITEXT CH="We will be looking at NPN type transistors. This device has three terminals called base, collector and emitter."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="Connecting a power supply across the collector and emitter allows the transistor to be used as a switch.  Without a connection to the base, the “internal resistance” of the transistor is extremely high and the “switch” is off."/>
+            <ITEXT CH="Connecting a power supply across the collector and emitter allows the transistor to be used as a switch.  Without a connection to the base, the internal resistance of the transistor is extremely high and the switch is off."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="If we apply a current to the transistor base then the internal resistance will drop by a corresponding amount and more current will flow from the collector to the emitter."/>
+            <ITEXT CH="If we apply a current to the transistor base then the internal resistance will drop by a corresponding amount and current will begin to flow from the collector to the emitter."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <ITEXT CH="The transistor is able to vary its internal resistance very quickly, tens of thousands of times per second. (It’s this feature that allows transistors to be used as amplifiers)."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="The amount that the current affects the internal resistance of the transistor is defined by a ratio known as the “DC current gain” and is referred to as “h"/>
+            <ITEXT CH="The amount that the current affects the internal resistance of the transistor is defined by a ratio known as the DC current gain and is referred to as h"/>
             <ITEXT FEATURES="inherit subscript" CH="FE"/>
-            <ITEXT CH="”."/>
+            <ITEXT CH="."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="In our case we want to supply a current to the base that will make the internal resistance be near zero – just like a closed switch. This is called “Transistor Saturation” and there is an "/>
+            <ITEXT CH="In our case we want to supply a current to the base that will cause the internal resistance be near zero – just like a closed switch. This is called “transistor saturation” and there is an "/>
             <ITEXT FONTSIZE="12" CH="equation"/>
             <ITEXT CH=" which tells us the current we need to apply to the base to make this happen,"/>
             <para PARENT="Body Text"/>
@@ -212,16 +212,16 @@
             <para PARENT="Body Text"/>
             <ITEXT CH="If you don’t own a multimeter yet, they are an essential tool for anyone who is involved in electronics and allow you take a wide range of measurements including voltage, current, resistance, capacitance and h"/>
             <ITEXT FEATURES="inherit subscript" CH="FE"/>
-            <ITEXT CH=". Maplins sell one for £7.99 (CODE: N20AX)."/>
+            <ITEXT CH=". "/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="It is possible to obtain a good multimeter for under ten pounds from a variety of retailers."/>
+            <ITEXT CH="It is possible to obtain a good multimeter for under ten pounds from a variety of retailers. Maplin sell one for £7.99 (CODE: N20AX)."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="DC motors draw different currents under different conditions. If a motor is “free-wheeling” then the motor will draw a comparatively small current."/>
+            <ITEXT CH="DC motors draw different currents under different conditions. If a motor is free-wheeling then the motor will draw a comparatively small current."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="Alternatively a “stalled” motor (a motor that is prevented from turning) will draw an extremely high current. The harder we make a motor work, the more current it will draw. In our case we want to measure the current the motors draw when our robotic base is trundling along the floor. One way to accurately obtain this measurement is to make the base move on the ground and measure the current that is being drawn. Here is the method I used with my Big Trak:"/>
+            <ITEXT CH="Alternatively a stalled motor (a motor that is prevented from turning) will draw an extremely high current. The harder we make a motor work, the more current it will draw. In our case we want to measure the current the motors draw when our robotic base is trundling along the floor. One way to accurately obtain this measurement is to make the base move on the ground and measure the current that is being drawn. Here is the method I used with my Big Trak:"/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <ITEXT CH="Connect the multimeter in series between the battery/power supply and one of the motors in the Big Trak."/>
@@ -250,13 +250,13 @@
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="The second motor must also be connected to the power supply and active otherwise only one motor will try to drive the whole Big Trak which will result in an inaccurate measurement. However we only need to measure the current drawn by one of these two identical motors."/>
+            <ITEXT CH="The second motor must also be connected to the power supply and active otherwise only one motor will try to drive the whole Big Trak which will result in an inaccurate measurement. However, we only need to measure the current drawn by one of these two identical motors."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <ITEXT CH="Add some weight to the Big Trak which approximates the expected overall weight of the finished robot. In the case of the Skutter this includes adding the robot arm."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="Complete the circuit between the batteries and motor, including the multimeter in series as shown. As the Big Trak rolls along the floor, take a measurement of the current which is being drawn.  Under the expected load for the Skutter using this method, one of the two big trak motors will draw a current of 2.5 Amps."/>
+            <ITEXT CH="Complete the circuit between the batteries and motor, including the multimeter in series as shown. As the Big Trak rolls along the floor, take a measurement of the current which is being drawn.  Under the expected load for the Skutter using this method, one of the two Big Trak motors should draw a current of 2.5 Amps."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <ITEXT CH="CAUTION: When motor stalling was tested the current drawn was approximately 20 Amps."/>
@@ -268,17 +268,16 @@
             <ITEXT FONT="FreeSans Bold Oblique" FONTSIZE="14" CH="Continued over page..."/>
             <para PARENT="Body Text" ALIGN="2"/>
             <para PARENT="Body Text"/>
-            <para PARENT="Body Text"/>
             <ITEXT CH="Choosing the right transistor"/>
             <para PARENT="Body Headings"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="Using the right transistor can make a massive difference to the design of your circuit.  Often several factors need to be considered simultaneously.  First, we need an idea of the minimum gain we need to provide.  We will use the saturation equation given before, however it is common to allow for 5 times the h"/>
+            <ITEXT CH="Using the right transistor can make a massive difference to the design of your circuit.  Often several factors need to be considered simultaneously.  First, we need an idea of the minimum gain we need to provide.  For this we will use the saturation equation given before. However, it is common to allow for 5 times the h"/>
             <ITEXT FEATURES="inherit subscript" CH="FE"/>
             <ITEXT CH=" value to provide an operating margin (if you look closely at transistor data sheets this value can vary widely due to how hard it is driven).  Here, I"/>
             <ITEXT FEATURES="inherit subscript" CH="C"/>
             <ITEXT CH=" is the current we need for our motor at 2.5A and I"/>
             <ITEXT FEATURES="inherit subscript" CH="B"/>
-            <ITEXT CH=" is the current we can supply to switch the transistor (RPi GPIO pin can supply up to 15mA, 51mA maximum in total)."/>
+            <ITEXT CH=" is the current we can supply to switch the transistor (RPi GPIO pin can supply up to 15mA per pin, with a 51mA maximum across the GPIO in total)."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <ITEXT CH="h"/>
@@ -291,30 +290,30 @@
             <para PARENT="Code Text"/>
             <ITEXT CH=" = 5 x (2.5/0.015) = 833"/>
             <para PARENT="Code Text"/>
-            <ITEXT CH="(typical transistors gains are nearer 100…)"/>
+            <ITEXT CH="(typical transistor gains are nearer 100…)"/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="The next consideration is the transistor will need to handle 2.5A through the collector and emitter, so I"/>
+            <ITEXT CH="The next consideration is that the transistor will need to handle 2.5A through the collector and emitter. Therefore, I"/>
             <ITEXT FEATURES="inherit subscript" CH="CE(max)"/>
             <ITEXT CH=" needs to be high enough (and a V"/>
             <ITEXT FEATURES="inherit subscript" CH="CE(max)"/>
             <ITEXT CH=" high enough for your motor supply.  Finally, the voltage drop V"/>
             <ITEXT FEATURES="inherit subscript" CH="CE(sat)"/>
-            <ITEXT CH=" is also important, since not only does this determine how much of the supply voltage makes it through to the motor, but the amount of power wasted (as heat - too hot=melted) by the transistor (this is given by Power = I"/>
+            <ITEXT CH=" is also important, since not only does this determine how much of the supply voltage makes it through to the motor, but the amount of power wasted (as heat... too hot=melted) by the transistor (this is given by Power = I"/>
             <ITEXT FEATURES="inherit subscript" CH="C"/>
             <ITEXT CH=" x V"/>
             <ITEXT FEATURES="inherit subscript" CH="CE(sat)"/>
             <ITEXT CH=")."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="The alarming gain value can be solved by using more than one transistor in series, so the GPIO signal is “amplified” in stages.  One way to do this is to use a special arrangement called a Darlington Pair, these are often available wrapped up in a single package.  In fact, TIP120, TIP121 and TIP122 are designed for such applications, offering h"/>
+            <ITEXT CH="The alarmingly high gain value can be solved by using more than one transistor in series, so the GPIO signal is amplified in stages.  One way to do this is to use a special arrangement called a Darlington Pair; these are often available wrapped up in a single package.  In fact TIP120, TIP121 and TIP122 are designed for such applications, offering h"/>
             <ITEXT FEATURES="inherit subscript" CH="FE"/>
             <ITEXT CH=" values around 1000, I"/>
             <ITEXT FEATURES="inherit subscript" CH="C(max)"/>
             <ITEXT CH=" of 5 Amps and in a suitable form to attach a large heatsink if required."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="However, another option is to make use of extra transistors to perform the switching of the H-Bridge and also provide isolation from the motor supply voltages (anything above 3.3V on the GPIO is bad news).  The gain from these transistors can be used to reduce the required gain of the H-Bridge transistors; with some careful selection it may be possible to drive the motor without the Darlington Pairs (see http://goo.gl/ggHrq).  This leads to the final consideration, whatever transistors you design for you’ll need to source them or equivalent ones, hence why I’ve settled on the TIP devices.  The trade-off is that the V"/>
+            <ITEXT CH="However, another option is to make use of extra transistors to perform the switching of the H-Bridge and also provide isolation from the motor supply voltages (anything above 3.3V on the GPIO is bad news).  The gain from these transistors can be used to reduce the required gain of the H-Bridge transistors; with some careful selection it may be possible to drive the motor without the Darlington Pairs (see http://goo.gl/ggHrq).  This leads to the final consideration: whatever transistors you design for you’ll need to source them or equivalent ones, hence why I’ve settled on the TIP devices.  The trade-off is that the V"/>
             <ITEXT FEATURES="inherit subscript" CH="BE(sat)"/>
             <ITEXT CH=" can range from 0.7V – 4V,  dropping a large chunk of the supply voltage, depending on the ratio of I"/>
             <ITEXT FEATURES="inherit subscript" CH="B"/>
@@ -323,32 +322,32 @@
             <ITEXT CH="."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="A Transistor Motor Driver Circuit"/>
+            <ITEXT CH="Transistor motor driver circuit"/>
             <para PARENT="Body Headings"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="Below is a &quot;Weiss&quot; H-Bridge circuit, you will see that our simple switch design is a little more complex than we thought, but each part of the circuit performs an important job."/>
+            <ITEXT CH="Below is a &quot;Weiss&quot; H-Bridge circuit. You will see that our simple switch design is a little more complex than we thought, but each part of the circuit performs an important job."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="There are four diodes (D1-D4) which are orientated in the opposite direction to the flow of current. This is because a DC motor can also generate an electric current when it turns faster than we are driving it.  This is referred to as “fly-back current” and it can be high enough to damage the transistors. Having these reverse biased diodes allows any &quot;fly-back&quot; current to escape safely. If you have looked at the datasheets for the TIP devices you will notice they already include the diodes internally, so you won't need to add extra ones (but it is important to remember if using other devices)."/>
+            <ITEXT CH="There are four diodes (D1-D4) which are orientated in the opposite direction to the flow of current. This is because a DC motor can also generate an electric current when it turns faster than we are driving it.  This is referred to as “fly-back current” and it can be high enough to damage the transistors. Having these reverse biased diodes allows any &quot;fly-back&quot; current to escape safely. If you have looked at the datasheets for the TIP devices you will notice that they already include the diodes internally, so you won't need to add extra ones (but it is important to remember if using other devices)."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="Also, you may note the top transistors are slightly different to the bottom (the arrows point inwards), these are PNP type devices rather than NPN.  This allows the driving voltage of the motor to be greater than the GPIO voltage.  The PNP &quot;twins&quot; of the NPN devices mentioned are TIP125, TIP126 and TIP127.  They function the same, except importantly, they are active LOW, so the GPIO has to be turned OFF to switch the transistor ON."/>
+            <ITEXT CH="Also, you may note that the top transistors are slightly different to the bottom ones (the arrows point inwards). These are PNP type devices rather than NPN, which allows the driving voltage of the motor to be greater than the GPIO voltage.  The PNP &quot;twins&quot; of the NPN devices mentioned are TIP125, TIP126 and TIP127.  They function the same, except importantly they are active LOW, so the GPIO has to be turned OFF to switch the transistor ON."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="You will notice that two extra transistors are used to switch on and off the TIP transistors, this allows the motor supply to be greater than the GPIO voltage without putting that voltage on the GPIO pin (with bad results for the RPi).  A nice side-effect is that not only does this make controlling the PNP devices easy, but both the top and bottom &quot;switches&quot; can now be controlled with 1 GPIO pin for each direction."/>
+            <ITEXT CH="You will notice that two extra transistors are used to switch on and off the TIP transistors. This allows the motor supply to be greater than the GPIO voltage without putting that voltage on the GPIO pin (with bad results for the Raspberry Pi).  A nice side-effect is that not only does this make controlling the PNP devices easy, but both the top and bottom &quot;switches&quot; can now be controlled with one GPIO pin for each direction."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="Selection of this transistor is a little easier than the previous ones since the bulk of the work will be done by the TIP devices, a low cost general purpose transistor is suitable, like BC108, 2N2222 should be fine."/>
+            <ITEXT CH="Selection of this transistor is a little easier than the previous ones since the bulk of the work will be done by the TIP devices. A low cost general purpose transistor is suitable - the BC108 or 2N2222 should be fine."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="An important aspect of this circuit is that the “common&quot; ground of the Raspberry Pi and the motor power supply. This allows the two separate power supplies to be tied to the same &quot;0V&quot; allowing them to work in the same circuit (although we still have to take care to keep the Motor Supply +V away from the GPIO)."/>
+            <ITEXT CH="An important aspect of this circuit is the common ground of the Raspberry Pi and the motor power supply. This allows the two separate power supplies to be tied to the same 0V allowing them to work in the same circuit (although we still have to take care to keep the motor supply +V away from the GPIO)."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="Resistor Values"/>
+            <ITEXT CH="Resistor values"/>
             <para PARENT="Body Headings"/>
-            <ITEXT CH="When you start to calculate the numbers, you will notice we have a lot of headroom, so we may as well aim for the ideal of only using a 5th of the gain, which means the transistor is not only saturated, but not being pushed too hard (even if the motor voltage is raised or lowered, or more current driven up to 5A).  We will use a 9V motor supply for the calculations."/>
             <para PARENT="Body Text"/>
+            <ITEXT CH="When you start to calculate the numbers, you will notice we have a lot of headroom, so we may as well aim for the ideal of only using a 5th of the gain. This means that the transistor is not only saturated, but not being pushed too hard (even if the motor voltage is raised or lowered, or more current is driven up to 5A).  We will use a 9V motor supply for the calculations."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
@@ -378,7 +377,7 @@
             <para PARENT="Code Text"/>
             <ITEXT CH="  = (9 – 1.4 – 1.4) / 0.0125 = 496 ohm"/>
             <para PARENT="Code Text"/>
-            <ITEXT CH="(470ohm gives 13mA, gain 190)"/>
+            <ITEXT CH="(470 ohms gives 13 mA, gain 190)"/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <ITEXT CH="Q5 assume gain of 6 (1/5 of H"/>
@@ -400,26 +399,28 @@
             <para PARENT="Code Text"/>
             <ITEXT CH="   = (3.3 – 0.7 - 1.4) / 0.002 = 600 ohm"/>
             <para PARENT="Code Text"/>
-            <ITEXT CH="(680ohm gives 1.76mA, gain 7.5)"/>
+            <ITEXT CH="(680 ohms gives 1.76 mA, gain 7.5)"/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
-            <ITEXT CH="So we can use 680ohm for R1 &amp; R2 and 470ohm for R3 &amp; R4."/>
+            <ITEXT CH="So we can use 680 ohms for R1 &amp; R2 and 470 ohms for R3 &amp; R4."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <ITEXT CH="Control"/>
             <para PARENT="Body Headings"/>
-            <ITEXT CH="With the extra control transistors, it is easy to control the motor, turn on Q5 for forward and turn on Q6 to reverse.  It should be obvious that you do not want to try forward and reverse at the same time!"/>
+            <para PARENT="Body Text"/>
+            <ITEXT CH="With the extra control transistors it is easy to control the motor, turn on Q5 for forward and turn on Q6 to reverse.  It should be obvious that you do not want to try forward and reverse at the same time!"/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <ITEXT CH="You can check your program by connecting the GPIO pins to LEDs instead of the H-Bridge to confirm you will obtain the correct outputs."/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <ITEXT FONTSIZE="9" CH="Note: Pages 6/7 of this article have been updated to replace the original circuit.  Other improved motor control solutions will be explored in later issues."/>
-            <para PARENT="Body Text"/>
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="9" CH="Updated by Meltwater"/>
+            <para PARENT="Body Text" ALIGN="3"/>
             <para PARENT="Body Text" ALIGN="2"/>
             <ITEXT FONTSIZE="14" CH="Article by Bodge N Hackitt"/>
             <para PARENT="Body Text Author"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="9" CH="Updated by Meltwater"/>
+            <trail PARENT="Body Text" ALIGN="2"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="100" YPOS="833.545" WIDTH="28.3465" HEIGHT="27.955" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="1" COLGAP="14.4" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="14.4" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Nimbus Sans L Bold Condensed" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="LeftPgNo" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 28.3465 0 28.3465 0 28.3465 0 28.3465 0 28.3465 27.955 28.3465 27.955 28.3465 27.955 28.3465 27.955 0 27.955 0 27.955 0 27.955 0 27.955 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 28.3465 0 28.3465 0 28.3465 0 28.3465 0 28.3465 27.955 28.3465 27.955 28.3465 27.955 28.3465 27.955 0 27.955 0 27.955 0 27.955 0 27.955 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="3.60918999997919e-313" gYpos="6.36598999984286e-314" gWidth="0" gHeight="1.80391998623472e-316" ALIGN="0" LAYER="1" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -470,10 +471,10 @@
         <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="128.3477" YPOS="930.2375" WIDTH="513.071" HEIGHT="773.858224409449" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="2" COLGAP="28.3465" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="14" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Nimbus Sans L Bold Condensed" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of RightPageBodyText (2)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 513.071 0 513.071 0 513.071 0 513.071 0 513.071 773.858 513.071 773.858 513.071 773.858 513.071 773.858 0 773.858 0 773.858 0 773.858 0 773.858 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 513.071 0 513.071 0 513.071 0 513.071 0 513.071 773.858 513.071 773.858 513.071 773.858 513.071 773.858 0 773.858 0 773.858 0 773.858 0 773.858 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="3" BOOKMARK="0" NEXTITEM="12" BACKITEM="4">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="749.135009765625" YPOS="930.237487792969" WIDTH="513.070983886719" HEIGHT="403.262512207031" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="2" COLGAP="28.3465" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="14" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Nimbus Sans L Bold Condensed" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of RightPageBodyText" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 513.071 0 513.071 0 513.071 0 513.071 0 513.071 403.263 513.071 403.263 513.071 403.263 513.071 403.263 0 403.263 0 403.263 0 403.263 0 403.263 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 513.071 0 513.071 0 513.071 0 513.071 0 513.071 403.263 513.071 403.263 513.071 403.263 513.071 403.263 0 403.263 0 403.263 0 403.263 0 403.263 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="3" BOOKMARK="0" NEXTITEM="-1" BACKITEM="11">
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="749.135009765625" YPOS="930.237487792969" WIDTH="513.070983886719" HEIGHT="415.850524902344" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="2" COLGAP="28.3465" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="14" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Nimbus Sans L Bold Condensed" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of RightPageBodyText" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 513.071 0 513.071 0 513.071 0 513.071 0 513.071 415.851 513.071 415.851 513.071 415.851 513.071 415.851 0 415.851 0 415.851 0 415.851 0 415.851 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 513.071 0 513.071 0 513.071 0 513.071 0 513.071 415.851 513.071 415.851 513.071 415.851 513.071 415.851 0 415.851 0 415.851 0 415.851 0 415.851 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="3" BOOKMARK="0" NEXTITEM="-1" BACKITEM="11">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="71.3475" YPOS="20.3478" WIDTH="623.52" HEIGHT="113.28" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.4" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="SkutterBanner.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 623.52 0 623.52 0 623.52 0 623.52 0 623.52 113.28 623.52 113.28 623.52 113.28 623.52 113.28 0 113.28 0 113.28 0 113.28 0 113.28 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 623.52 0 623.52 0 623.52 0 623.52 0 623.52 113.28 623.52 113.28 623.52 113.28 623.52 113.28 0 113.28 0 113.28 0 113.28 0 113.28 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="62.8435668945312" YPOS="9.00854409448819" WIDTH="631.998962402344" HEIGHT="124.608001708984" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.4" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.264" LOCALSCY="0.264" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="SkutterBanner.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 631.999 0 631.999 0 631.999 0 631.999 0 631.999 124.608 631.999 124.608 631.999 124.608 631.999 124.608 0 124.608 0 124.608 0 124.608 0 124.608 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 631.999 0 631.999 0 631.999 0 631.999 0 631.999 124.608 631.999 124.608 631.999 124.608 631.999 124.608 0 124.608 0 124.608 0 124.608 0 124.608 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -495,7 +496,7 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="1020.833" YPOS="230.583977165354" WIDTH="241.3735" HEIGHT="215.069977564102" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.4" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.25787767094017" LOCALSCY="0.25787767094017" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="BigTrak.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 241.373 0 241.373 0 241.373 0 241.373 0 241.373 215.07 241.373 215.07 241.373 215.07 241.373 215.07 0 215.07 0 215.07 0 215.07 0 215.07 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 241.373 0 241.373 0 241.373 0 241.373 0 241.373 215.07 241.373 215.07 241.373 215.07 241.373 215.07 0 215.07 0 215.07 0 215.07 0 215.07 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="3" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="1020.833" YPOS="206.072166141732" WIDTH="241.3735" HEIGHT="215.069977564102" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.4" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.25787767094017" LOCALSCY="0.25787767094017" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="BigTrak.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 241.373 0 241.373 0 241.373 0 241.373 0 241.373 215.07 241.373 215.07 241.373 215.07 241.373 215.07 0 215.07 0 215.07 0 215.07 0 215.07 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 241.373 0 241.373 0 241.373 0 241.373 0 241.373 215.07 241.373 215.07 241.373 215.07 241.373 215.07 0 215.07 0 215.07 0 215.07 0 215.07 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="3" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>

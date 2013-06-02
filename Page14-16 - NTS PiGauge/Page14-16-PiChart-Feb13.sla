@@ -31,8 +31,10 @@
         <LAYERS NUMMER="2" LEVEL="1" NAME="Images" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
         <LAYERS NUMMER="3" LEVEL="2" NAME="Text" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
         <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="1" doGCR="1" doClip="1" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="1" registrationMarks="0" colorMarks="1" includePDFMarks="0" PSLevel="3" PDLanguage="3" markOffset="1.06809996176056e-306" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
-        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="2" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="1" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="600" Resolution="600" Version="15" Intent="1" Intent2="0" SolidP="" ImageP="" PrintP="" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="1" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="1" Quality="2" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="1" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="600" Resolution="600" Version="15" Intent="1" Intent2="0" SolidP="" ImageP="" PrintP="" InfoString="" BTop="8.50393700787402" BLeft="8.50393700787402" BRight="8.50393700787402" BBottom="8.50393700787402" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="0" doMultiFile="1" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
             <Subset Name="FreeSans Bold"/>
+            <Subset Name="FreeSans Bold Oblique"/>
+            <Subset Name="FreeSans Regular"/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
@@ -135,7 +137,7 @@
             <ITEXT CH="$ sudo shutdown -h now"/>
             <para PARENT="Code"/>
             <para PARENT="BodyText"/>
-            <ITEXT FONT="FreeSans Regular" FONTSIZE="12" CH="First, connect to the servos. Most servos come with mating connectors pre- installed. Plug the connector into the servo driver, but make sure the colors match the silkscreen. We used Ch. 1-5"/>
+            <ITEXT FONT="FreeSans Regular" FONTSIZE="12" CH="First, connect to the servos. Most servos come with mating connectors pre-installed. Plug the connector into the servo driver, but make sure the colors match the silkscreen. We used Ch. 1-5"/>
             <para PARENT="BodyText"/>
             <ITEXT FONT="FreeSans Regular" FONTSIZE="12" CH="  "/>
             <para PARENT="BodyText"/>
@@ -192,7 +194,7 @@
             <ITEXT CH="$ git clone https://github.com/Thebanjodude/PiGauge"/>
             <para PARENT="Code"/>
             <para PARENT="BodyText"/>
-            <ITEXT FONT="FreeSans Regular" FONTSIZE="12" CH="Comment out all lines in this file:"/>
+            <ITEXT FONT="FreeSans Regular" FONTSIZE="12" CH="Comment out all of the lines in this file:"/>
             <para PARENT="BodyText"/>
             <para PARENT="BodyText"/>
             <ITEXT CH="$ sudo nano /etc/modprobe.d/raspi-blacklist.conf "/>
@@ -200,7 +202,7 @@
             <para PARENT="BodyText"/>
             <ITEXT FONT="FreeSans Regular" FONTSIZE="12" CH="Add the I"/>
             <ITEXT FONT="FreeSans Regular" FONTSIZE="12" FEATURES="inherit superscript" CH="2"/>
-            <ITEXT FONT="FreeSans Regular" FONTSIZE="12" CH="C device to the kernal. Restart your Pi then add yourself to the I"/>
+            <ITEXT FONT="FreeSans Regular" FONTSIZE="12" CH="C device to the kernel. Restart your Pi then add yourself to the I"/>
             <ITEXT FONT="FreeSans Regular" FONTSIZE="12" FEATURES="inherit superscript" CH="2"/>
             <ITEXT FONT="FreeSans Regular" FONTSIZE="12" CH="C group:"/>
             <para PARENT="BodyText"/>
@@ -283,7 +285,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.3470909395" YPOS="122.4185857097" WIDTH="513.070861816406" HEIGHT="56.6929130554199" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="22" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold Oblique" ISIZE="18" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="ArticleIntroText" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 513.071 0 513.071 0 513.071 0 513.071 0 513.071 56.6929 513.071 56.6929 513.071 56.6929 513.071 56.6929 0 56.6929 0 56.6929 0 56.6929 0 56.6929 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 513.071 0 513.071 0 513.071 0 513.071 0 513.071 56.6929 513.071 56.6929 513.071 56.6929 513.071 56.6929 0 56.6929 0 56.6929 0 56.6929 0 56.6929 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="3" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold Oblique" FONTSIZE="18" CH="This fun project shows how to control servo motors over the internet using a RaspberryPi."/>
+            <ITEXT FONT="FreeSans Bold Oblique" FONTSIZE="18" CH="This fun project shows how to control servo motors over the internet using a Raspberry Pi."/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
